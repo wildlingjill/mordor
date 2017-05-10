@@ -1,0 +1,19 @@
+{
+  "name": "mordorjs",
+  "version": "1.0.0",
+  "description": "One JavaScript library to rule them all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wildlingjill/mordorjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wildlingjill/mordorjs/issues"
+  },
+  "homepage": "https://github.com/wildlingjill/mordorjs#readme"
+}
